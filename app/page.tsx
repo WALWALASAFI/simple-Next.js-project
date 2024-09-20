@@ -22,6 +22,9 @@ export default function Home() {
           </p>
         </div>
       </div>
+      <footer className="bg-black bg-opacity-50 p-4 text-center">
+        <p className="text-sm text-gray-400">© 2024 Walwala Safi. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
