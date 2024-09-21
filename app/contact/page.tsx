@@ -12,9 +12,9 @@ export default function Contact() {
 
       <div className="flex flex-col items-center justify-center flex-1">
         <div className="bg-gray-800 p-8 rounded-lg shadow-lg max-w-md text-center mb-8"> {/* Added mb-8 for margin */}
-          <h2 className="text-4xl font-bold mb-4">Contact Us</h2>
+          <h2 className="text-4xl font-bold mb-4">Contact Me</h2>
           <p className="text-lg mb-4">
-            We would love to hear from you! Please fill out the form below.
+            I would love to hear from you! Please fill out the form below.
           </p>
           
           <div className="border-2 border-gray-500 rounded-lg p-4 mt-6">
@@ -48,14 +48,13 @@ export default function Contact() {
           <div className="mt-6">
             <h1 className="text-2xl font-bold">INfo</h1>
             <h1 className="text-blue">Walwala Safi</h1>
-            <p className="text-lg">Email: <a href="mailto:info@example.com" className="text-pink-500 hover:underline">info@example.com</a></p>
-            <p className="text-lg">Phone: <span className="text-pink-500">+1 234 567 890</span></p>
-            <p className="text-lg">Address: <span className="text-pink-500">123 Main St, Anytown, USA</span></p>
+            <p className="text-lg">Email: <a href="mailto:info@example.com" className="text-pink-500 hover:underline">walwalasafi99@gmail.com</a></p>
+            <p className="text-lg">Phone: <span className="text-pink-500">+93 747214751</span></p>
+            <p className="text-lg">Address: <span className="text-pink-500">Behind the Kardan Uni, kabul, Afg</span></p>
           </div>
         </div>
       </div>
 
-      {/* Footer Section */}
       <footer className="bg-black bg-opacity-50 p-4 text-center">
         <p className="text-sm text-gray-400">© 2024 Walwala Safi. All rights reserved.</p>
       </footer>
