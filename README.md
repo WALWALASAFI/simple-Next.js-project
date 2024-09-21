@@ -1,6 +1,6 @@
 # Simple-Next.js-Project
 Dimo
-![Dimo](image/SharedScreenshot.jpg)
+![](image/SharedScreenshot.jpg)
 
 Welcome to the Simple Next.js Project! This is a basic web application built using Next.js, showcasing the framework's capabilities with a straightforward structure.
 
@@ -38,8 +38,11 @@ you can check the live dimo of project [here](https://walwalasafi.github.io/Rand
 
 ## Customization
 ◻  You can customize the following aspects of the app:
+
 ◻  Quote API: Change the API endpoint in script.js to use a different page provider.
+
 ◻  Styling: Modify the CSS in styles.css to change the appearance of the app.
+
 ◻  Add More Features: Consider adding features like a favorites list or user-submitted page of next.js project.
 
 
