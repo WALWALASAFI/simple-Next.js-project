@@ -11,7 +11,7 @@ export default function Contact() {
       </nav>
 
       <div className="flex flex-col items-center justify-center flex-1">
-        <div className="bg-gray-800 p-8 rounded-lg shadow-lg max-w-md text-center mb-8"> {/* Added mb-8 for margin */}
+        <div className="bg-gray-800 p-3 rounded-lg shadow-lg max-w-md text-center mb-4"> {/* Added mb-8 for margin */}
           <h2 className="text-4xl font-bold mb-4">Contact Me</h2>
           <p className="text-lg mb-4">
             I would love to hear from you! Please fill out the form below.
@@ -55,7 +55,7 @@ export default function Contact() {
         </div>
       </div>
 
-      <footer className="bg-black bg-opacity-50 p-4 text-center">
+      <footer className="bg-black bg-opacity-50 p-2 mt-3 mb-32 text-center">
         <p className="text-sm text-gray-400">© 2024 Walwala Safi. All rights reserved.</p>
       </footer>
     </div>
