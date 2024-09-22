@@ -4,7 +4,7 @@ Dimo
 
 Welcome to the Simple Next.js Project! This is a basic web application built using Next.js, showcasing the framework's capabilities with a straightforward structure.
 
-you can check the live dimo of project [here](https://walwalasafi.github.io/Random-Quote-Machine/)
+you can check the live dimo of project [here](ttp://localhost:3000)
 
 
 
