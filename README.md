@@ -4,7 +4,7 @@ Dimo
 
 Welcome to the Simple Next.js Project! This is a basic web application built using Next.js, showcasing the framework's capabilities with a straightforward structure.
 
-you can check the live dimo of project [here](ttp://localhost:3000)
+you can check the live dimo of project [here](https://frabjous-chebakia-a62d92.netlify.app/)
 
 
 
