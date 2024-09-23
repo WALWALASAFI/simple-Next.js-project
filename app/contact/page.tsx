@@ -47,7 +47,7 @@ export default function Contact() {
             </div>
           </div>
 
-          <div className="bg-gray-800 p-8 rounded-lg shadow-lg text-center flex-3">
+          <div className="bg-black-400 p-10 rounded-lg shadow-lg text-center flex-8">
             <h1 className="text-4xl font-bold mt-1">Info</h1>
             <h1 className="text-2xl mt-12">Walwala Safi</h1>
             <p className="text-1xl">Email: <a href="mailto:info@example.com" className="text-pink-500 hover:underline">walwalasafi99@gmail.com</a></p>
@@ -57,7 +57,7 @@ export default function Contact() {
         </div>
       </div>
 
-      <footer className="bg-black bg-opacity-50 p-2 text-center">
+      <footer className="bg-black bg-opacity-100 p-2 text-center">
         <p className="text-sm text-gray-400">© 2024 Walwala Safi. All rights reserved.</p>
       </footer>
     </div>
